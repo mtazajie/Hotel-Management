@@ -1,11 +1,3 @@
-/*
-Group members:
-Hawi Tilahun         Ugr/34568/16 Section 18
-Kidist Getachew      Ugr/34751/16 Section 18
-Kidist Tesgaye       Ugr/34753/16 Section 17
-Mihret Tesfaye       Ugr/34957/16 Section 18
-Rodas Yohannes       Ugr/35294/16 Section 17
-*/
 #include <iostream>
 #include <fstream>
 #include <cstring>
