@@ -259,3 +259,4 @@ void displayRoom(const Room& room) {
     cout << "\nRent: " << room.rent;
     cout << "\nStatus: " << (room.status == 0 ? "Available" : (room.status == 1 ? "Reserved" : "Checked-In")) << endl;
 }
+
